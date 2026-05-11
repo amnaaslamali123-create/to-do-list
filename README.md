@@ -1,3 +1,3 @@
 # to-do-list
 my app
-auther amna aslam
+auther amna ahmad 
